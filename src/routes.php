@@ -1,2 +1,2 @@
 <?php
-Route::get('/hello', 'Kai\Test1\HelloController@index');
+Route::get('/hello', 'Kai\KaiLearnComposer\HelloController@index');
