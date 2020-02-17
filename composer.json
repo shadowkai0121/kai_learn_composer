@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Kai\\KaiLearnComposer": "src/"
+            "Kai\\KaiLearnComposer\\": "src/"
         }
     }
 }
