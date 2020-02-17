@@ -1,6 +1,6 @@
 <?php
 
-namespace Kai\Test1;
+namespace Kai\KaiLearnComposer;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

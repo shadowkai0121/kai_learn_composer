@@ -1,5 +1,5 @@
 {
-    "name": "kai/test1",
+    "name": "kai/kai_learn_composer",
     "authors": [
         {
             "name": "Kai",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Kai\\Test1": "src/"
+            "Kai\\KaiLearnComposer": "src/"
         }
     }
 }
