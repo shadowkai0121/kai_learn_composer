@@ -1,0 +1,15 @@
+{
+    "name": "kai/test1",
+    "authors": [
+        {
+            "name": "Kai",
+            "email": "shadowkai0121@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kai\\Test1": "src/"
+        }
+    }
+}
